@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Playful-Cloud (Jay Pantaleon)
 - 👀 I’m interested in Data Science, Data Engineering & Statistics (Data in particular)
-- 🌱 I’m currently learning Statistics, Data Analysis, Data Management, BI & Data Viz as well as Communication, Project Management, and leadership
+- 🌱 I’m currently learning Statistics, Data Engr while honing my Data Analysis, Data Management, BI & Data Viz as well as my Communication, Project Management, and leadership skills
 - 💞️ I’m looking to collaborate on Data Projects and things I can help improve on.
 - 📫 How to reach me jay.pantaleonb.20@gmail.com
 - 😄 Pronouns: he/him
