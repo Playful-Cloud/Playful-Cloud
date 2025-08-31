@@ -1,7 +1,7 @@
 ***👋 Hi, I’m Jay Pantaleon (@Playful-Cloud)**
 Business Analyst & Strategic Consultant | Business owner/founder 
 
-I’m a Business Analyst & Data Strategist, a Business co-owner with extensive experience in Data Anlaytics, Business Inteligence, Reporting, compliance and Risk Management
+I’m a Business Analyst & Data Strategist, a Business co-owner with extensive experience in Data Anlaytics, Business Inteligence, Reporting, compliance and Risk Management.
 My experience expands from global financial institutions, scaling ventures, to mission-driven organizations. 
 today I’m advancing into Data Engineering (DE)/ Cloud Data Engineering (CDE), building secure, scalable, and compliant data systems.
 
