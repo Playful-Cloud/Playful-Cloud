@@ -1,11 +1,12 @@
 ***👋 Hi, I’m Jay Pantaleon (@Playful-Cloud)**
-Business Analyst & Strategic Consultant | Business owner/founder 
+ - Business Analyst & Strategic Consultant | Business owner/founder | Aspiring Data Engineer
 
 I’m a Business Analyst & Data Strategist, a Business co-owner with extensive experience in Data Anlaytics, Business Inteligence, Reporting, compliance and Risk Management.
 My experience expands from global financial institutions, scaling ventures, to mission-driven organizations. 
-today I’m advancing into Data Engineering (DE)/ Cloud Data Engineering (CDE), building secure, scalable, and compliant data systems.
 
-My work blends precision with purpose: from governance and compliance to analytics and automation. Over the years, I’ve helped teams move from data chaos to     structured, actionable intelligence by building dashboards, pipelines, and transformation systems that drive growth and trust.
+Today, I’m advancing into Data Engineering (DE) and Cloud Data Engineering (CDE), expanding my foundation and strengthening my expertise in governance, automation, and scalable system design to deliver secure and compliant data enterprise-ready data solutions.
+
+My work blends precision with purpose: from governance and compliance to analytics and automation. Over the years, I’ve helped teams move from data chaos to     structured, actionable intelligence by building dashboards, data pipelines, and transformation systems that drive growth and trust.
  
  
  
@@ -20,9 +21,9 @@ My work blends precision with purpose: from governance and compliance to analyti
 
 **Wells Fargo (2021–2024):
 
-        *Data Management Associate (CPQA): Promoted ahead of schedule; developed compliance alert systems (“Icommit”), strengthened enterprise governance, and automated risk controls with SQL & VBA. Recognized for leadership, mentoring, and bridging business–tech alignment.
+        *Data Management Associate (CPQA): Automated risk controls with SQL & VBA; developed compliance alert systems (“Icommit”), strengthened enterprise governance frameworks. Recognized for leadership, mentoring, and bridging business–tech alignment.
 
-        *Data Integrity Consultant (DMI): Automated regulatory data processes, saving ₱1.7M+ annually and ensuring compliance in counterparty classification and risk reporting.
+        *Data Integrity Consultant (DMI): Automated regulatory data pipelines, saving ₱1.7M+ annually, ensuring compliance in counterparty classification and risk reporting.
 
 **SYKES (2014–2021): 
 
@@ -32,11 +33,12 @@ My work blends precision with purpose: from governance and compliance to analyti
 
 
 ¦ Focus Areas:
- Data Integrity & Governance
+  Data Engineering Foundations
+| Governance & Automation
+| Data Integrity & compliance
 | Analytics Strategy & Executive Reporting
 | Business Intelligence & Risk Management
 | Multi-System Integration & Automation (Python, SQL, VBA)
-| Digital Transformation & Compliance
 | Process Optimization & Digital Transformation
 | Leadership, Coaching & Stakeholder Management
 
@@ -47,13 +49,12 @@ My work blends precision with purpose: from governance and compliance to analyti
 | Data Warehousing: Snowflake, BigQuery, Redshift
 | Transformation & Orchestration: dbt, Databricks
 | Version Control & Automation: Git (Core), Shell scripting
-| Working toward building end-to-end data pipelines, optimized models, and multi-cloud infrastructures that are both enterprise-grade and compliance-first.
+| Building end-to-end data pipelines, optimized models, and multi-cloud infrastructures that are enterprise-grade and compliance-first.
 
 
-¦ Ongoing Learning:
- Data Engineering Foundations
-| Statistics 
-| Advanced Analytics
+¦ Currently Building Expertise:
+ Data Engineering & Cloud Data Engineering
+| Statistics & Advanced Analytics
 | Communication & Leadership (mentorship, strategy, stakeholder alignment)
 
 
