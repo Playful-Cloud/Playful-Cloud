@@ -16,7 +16,7 @@ My work blends **precision with purpose**: from governance and compliance to ana
  
 
  
-## ¦ Professional Journey:
+## ¦ Career Timeline:
 
 
 **BBC (2024-2025):
