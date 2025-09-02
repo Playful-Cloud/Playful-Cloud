@@ -1,17 +1,23 @@
-***👋 Hi, I’m Jay Pantaleon (@Playful-Cloud)**
--Business Analyst & Strategic Consultant | Business owner/founder | Aspiring Data Engineer
+# Hi, I’m Jay Pantaleon (@Playful-Cloud)  
 
-I’m a Business Analyst & Data Strategist, a Business co-owner with extensive experience in Data Anlaytics, Business Inteligence, Reporting, compliance and Risk Management.
-My experience expands from global financial institutions, scaling ventures, to mission-driven organizations. 
+**Business Analyst & Strategic Consultant | Business Owner/Founder | Aspiring Data Engineer**  
 
-Today, I’m advancing into Data Engineering (DE) and Cloud Data Engineering (CDE), expanding my foundation and strengthening my expertise in governance, automation, and scalable system design to deliver secure and compliant data enterprise-ready data solutions.
+---
+## About me:
 
-My work blends precision with purpose: from governance and compliance to analytics and automation. Over the years, I’ve helped teams move from data chaos to     structured, actionable intelligence by building dashboards, data pipelines, and transformation systems that drive growth and trust.
+I’m a **Business Analyst & Data Strategist**, a business co-owner with extensive experience in **Data Analytics, Business Intelligence, Reporting, Compliance, and Risk Management**.  
+
+My background spans **global financial institutions, scaling ventures, and mission-driven organizations**.  
+
+Currently, I’m advancing into **Data Engineering (DE)** and **Cloud Data Engineering (CDE)**, expanding my foundation and strengthening expertise in **governance, automation, and scalable system design** to deliver **secure and enterprise-ready data solutions**.  
+
+My work blends **precision with purpose**: from governance and compliance to analytics and automation. Over the years, I’ve helped teams move from *data chaos* to **structured, actionable intelligence** by building dashboards, data pipelines, and transformation systems that drive **growth and trust**
  
  
+
  
- 
-¦ Professional Journey:
+## ¦ Professional Journey:
+
 
 **BBC (2024-2025):
 
@@ -32,7 +38,8 @@ My work blends precision with purpose: from governance and compliance to analyti
         *Operations Reports Analyst (SYKES – Ally Financial): Built global operations and workforce reports, automated recurring reporting with Excel/VBA, and standardized payroll/attendance processes, improving compliance and efficiency across multi-region operations.
 
 
-¦ Focus Areas:
+
+## ¦ Focus Areas:
   Data Engineering Foundations
 | Governance & Automation
 | Data Integrity & compliance
@@ -43,7 +50,8 @@ My work blends precision with purpose: from governance and compliance to analyti
 | Leadership, Coaching & Stakeholder Management
 
 
-¦ Expanding Tech Stack:
+
+## ¦ Expanding Tech Stack:
  Currently sharpening my expertise in:
 | Cloud Platforms: AWS, GCP, Azure
 | Data Warehousing: Snowflake, BigQuery, Redshift
@@ -52,15 +60,17 @@ My work blends precision with purpose: from governance and compliance to analyti
 | Building end-to-end data pipelines, optimized models, and multi-cloud infrastructures that are enterprise-grade and compliance-first.
 
 
-¦ Currently Building Expertise:
+
+## ¦ Currently Building Expertise:
  Data Engineering & Cloud Data Engineering
 | Statistics & Advanced Analytics
 | Communication & Leadership (mentorship, strategy, stakeholder alignment)
 
+---
 
 ¦ Let’s Connect
  Email: jay.pantaleonb.20@gmail.com
-| LinkedIn: (add your LinkedIn link if you want)
+| LinkedIn: https://www.linkedin.com/in/jay-aldrin-pantaleon-6019292b3/
 | GitHub Projects: Always open to collaboration on data-driven projects.
 
 
