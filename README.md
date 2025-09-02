@@ -3,7 +3,7 @@
 **Business Analyst & Strategic Consultant | Business Owner/Founder | Aspiring Data Engineer**  
 
 ---
-## About me:
+## ¦ About me:
 
 I’m a **Business Analyst & Data Strategist**, a business co-owner with extensive experience in **Data Analytics, Business Intelligence, Reporting, Compliance, and Risk Management**.  
 
