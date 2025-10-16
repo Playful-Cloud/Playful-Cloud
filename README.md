@@ -1,6 +1,6 @@
 # Hi, I’m Jay Pantaleon (@Playful-Cloud)  
 
-**Business Analyst & Strategic Consultant | Business Owner/Founder | Aspiring Data Engineer**  
+**Business Analyst & Strategic Consultant | Business Owner/Co-Founder | Aspiring Data Engineer**  
 
 ---
 ## ¦ About me:
