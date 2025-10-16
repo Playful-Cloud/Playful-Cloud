@@ -39,25 +39,27 @@ My work blends **precision with purpose**: from governance and compliance to ana
 
 
 
-## ¦ Focus Areas:
-  Data Engineering Foundations
-| Governance & Automation
-| Data Integrity & compliance
-| Analytics Strategy & Executive Reporting
-| Business Intelligence & Risk Management
-| Multi-System Integration & Automation (Python, SQL, VBA)
-| Process Optimization & Digital Transformation
-| Leadership, Coaching & Stakeholder Management
+### Focus Areas
+| Area |
+|:------|
+| Data Engineering Foundations |
+| Governance & Automation |
+| Data Integrity & Compliance |
+| Analytics Strategy & Executive Reporting |
+| Business Intelligence & Risk Management |
+| Multi-System Integration & Automation (Python, SQL, VBA) |
+| Process Optimization & Digital Transformation |
+| Leadership, Coaching & Stakeholder Management |
 
 
-
-## ¦ Expanding Tech Stack:
- Currently sharpening my expertise in:
-| Cloud Platforms: AWS, GCP, Azure
-| Data Warehousing: Snowflake, BigQuery, Redshift
-| Transformation & Orchestration: dbt, Databricks
-| Version Control & Automation: Git (Core), Shell scripting
-| Building end-to-end data pipelines, optimized models, and multi-cloud infrastructures that are enterprise-grade and compliance-first.
+### Expanding Tech Stack
+| Category | Tools / Platforms |
+|:----------|:------------------|
+| **Cloud Platforms** | AWS, GCP, Azure |
+| **Data Warehousing** | Snowflake, BigQuery, Redshift |
+| **Transformation & Orchestration** | dbt, Databricks |
+| **Version Control & Automation** | Git (Core), Shell scripting |
+| **Focus** | Building end-to-end data pipelines, optimized models, and multi-cloud infrastructures that are enterprise-grade and compliance-first |
 
 
 
