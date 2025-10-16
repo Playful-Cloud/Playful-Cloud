@@ -63,10 +63,12 @@ My work blends **precision with purpose**: from governance and compliance to ana
 
 
 
-## ¦ Currently Building Expertise:
- Data Engineering & Cloud Data Engineering
-| Statistics & Advanced Analytics
-| Communication & Leadership (mentorship, strategy, stakeholder alignment)
+### Currently Building Expertise
+| Area |
+|:------|
+| Data Engineering & Cloud Data Engineering |
+| Statistics & Advanced Analytics |
+| Communication & Leadership *(Mentorship, Strategy, Stakeholder Alignment)* |
 
 ---
 
