@@ -20,14 +20,30 @@ My focus is on building reliable data foundations that make reporting more consi
 |---|---|
 | Analytics Engineering | Data pipelines, SQL transformations, dbt Core, reusable models, and analysis-ready datasets |
 | Data Warehousing and Modeling | Local analytical warehousing, dimensional modeling, layered architecture, and reporting-ready data |
-| Business Intelligence and Decision Support | KPI frameworks, dashboards, performance analysis, root-cause analysis, and decision intelligence |
+| Business Intelligence and Data Visualization | Interactive dashboards, self-service analytics, KPI monitoring, performance reporting, and visual exploration of business data |
+| Decision Intelligence and Performance Analytics | Decision support, root-cause analysis, trend analysis, metric interpretation, and translating analytical findings into business actions |
 | Data Quality, Governance, and Controls | Validation, reconciliation, metric standardization, data lineage, regulatory data integrity, and audit readiness |
 | Business Analysis and Strategy | Requirements analysis, operational intelligence, financial performance, forecasting, and strategic planning |
 | Business Growth and Performance | Membership growth, participation, retention, revenue analysis, pricing, and go-to-market support |
 | Process Improvement and Automation | Workflow optimization, reporting automation, and reduction of repetitive manual work |
-| Stakeholder and Cross-Functional Collaboration | Business–technical alignment, requirements clarification, documentation, and stakeholder coordination |
+| Risk, Compliance, and Stakeholder Management | Risk controls, regulatory reporting, process accountability, requirements clarification, and cross-functional coordination |
 
 ---
+
+## Technical Focus
+
+| Category | Technologies and Practices |
+|---|---|
+| Programming and Data Analysis | Python, SQL, Pandas, NumPy |
+| Analytics Engineering | dbt Core, modular SQL transformations, data testing |
+| Data Storage and Warehousing | PostgreSQL, DuckDB, dimensional modeling |
+| Business Intelligence and Visualization | Power BI, Tableau, Streamlit, Evidence.dev |
+| Data Quality and Governance | Validation, reconciliation, KPI standardization, data integrity |
+| Automation | Python, SQL, Excel/VBA |
+| Engineering Practices | Git/GitHub, reproducible workflows, technical documentation |
+
+---
+
 
 ## Expanding Tech Stack
 
