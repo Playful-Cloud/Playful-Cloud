@@ -1,84 +1,68 @@
-# Hi, I’m Jay Pantaleon (@Playful-Cloud)  
+# Hi, I'm Jay Pantaleon (@Playful-Cloud)
 
-**Business Analyst & Strategic Consultant | Business Owner/Co-Founder | Aspiring DE/CDE**  
+**Analytics Engineering | Business Intelligence | Data Governance**
 
----
-## ¦ About me:
+## About Me
 
-I’m a **Business Analyst & Data Strategist**, a business co-owner with extensive experience in **Data Analytics, Business Intelligence, Reporting, Compliance, and Risk Management**.  
+I work across data analytics, business intelligence, data governance, and operational strategy, with experience improving data quality, reporting systems, compliance controls, and business processes.
 
-My background spans **global financial institutions, scaling ventures, and mission-driven organizations**.  
+My background spans Wells Fargo's financial data management and risk controls, BBC-Manila's large-scale operational data management, and BBC-MR's business intelligence and strategic decision support.
 
-Currently, I’m advancing into **Data Engineering (DE)** and **Cloud Data Engineering (CDE)**, expanding my foundation and strengthening expertise in **governance, automation, and scalable system design** to deliver **secure and enterprise-ready data solutions**.  
+I am extending this experience into analytics engineering and data engineering through hands-on development of data pipelines, SQL transformations, analytical models, data testing, and reproducible workflows.
 
-My work blends **precision with purpose**: from governance and compliance to analytics and automation. Over the years, I’ve helped teams move from *data chaos* to **structured, actionable intelligence** by building dashboards, data pipelines, and transformation systems that drive **growth and trust**
- 
- 
-
- 
-## ¦ Career Timeline:
-
-
-**BBC (2024-2025):
-
-        **BBC-MR (2025–Present): Appointed Business Analyst & Strategic Consultant for the independent spin-off of BBCM, co-owned by family (30% stake). Driving BI insights, system innovation, compliance documentation, payroll oversight, and logistics operations. Also founded PFFL, a live animal transport company (4 trucks, fully compliant), supporting BBC-MR’s regional logistics.
-
-        **BBCM (2024–2025): Progressed from Volunteer Administrative Assistant (Area Coordinator) to Data Manager – Database & Encoding Team. Led 9-person team, optimized race/finance databases, standardized templates, and introduced eChips/eClocks integration that generated new recurring revenue. Contributed to ₱21M+ seasonal revenues and geographic expansion into Cavite, Laguna, and Rizal.    
-
-**Wells Fargo (2021–2024):
-
-        *Data Management Associate (CPQA): Automated risk controls with SQL & VBA; developed compliance alert systems (“Icommit”), strengthened enterprise governance frameworks. Recognized for leadership, mentoring, and bridging business–tech alignment.
-
-        *Data Integrity Consultant (DMI): Automated regulatory data pipelines, saving ₱1.7M+ annually, ensuring compliance in counterparty classification and risk reporting.
-
-**SYKES (2014–2021): 
-
-        *Sr. Reports Analyst (Workforce): Advanced from Operations Reports Analyst overseing Ally Financial & Hyundai Capital America. Designed global reporting systems adopted across US, Mexico, and India, Advanced workforce analytics by automating reporting systems, monitoring SLA performance, and developing attrition and capacity dashboards that informed global operations leaders. Awarded Workforce of the Year (2019–2020).
-
-        *Operations Reports Analyst (SYKES – Ally Financial): Built global operations and workforce reports, automated recurring reporting with Excel/VBA, and standardized payroll/attendance processes, improving compliance and efficiency across multi-region operations.
-
-
-
-### Focus Areas
-| Area |
-|:------|
-| Data Engineering Foundations |
-| Governance & Automation |
-| Data Integrity & Compliance |
-| Analytics Strategy & Executive Reporting |
-| Business Intelligence & Risk Management |
-| Multi-System Integration & Automation (Python, SQL, VBA) |
-| Process Optimization & Digital Transformation |
-| Leadership, Coaching & Stakeholder Management |
-
-
-### Expanding Tech Stack
-| Category | Tools / Platforms |
-|:----------|:------------------|
-| **Cloud Platforms** | AWS, GCP, Azure |
-| **Data Warehousing** | Snowflake, BigQuery, Redshift |
-| **Transformation & Orchestration** | dbt, Databricks |
-| **Version Control & Automation** | Git (Core), Shell scripting |
-| **Focus** | Building end-to-end data pipelines, optimized models, and multi-cloud infrastructures that are enterprise-grade and compliance-first |
-
-
-
-### Currently Building Expertise
-| Area |
-|:------|
-| Data Engineering & Cloud Data Engineering |
-| Statistics & Advanced Analytics |
-| Communication & Leadership *(Mentorship, Strategy, Stakeholder Alignment)* |
+My focus is on building reliable data foundations that make reporting more consistent, analytical workflows more maintainable, and business decisions better informed.
 
 ---
 
-¦ Let’s Connect
- Email: jay.pantaleonb.20@gmail.com
-| LinkedIn: https://www.linkedin.com/in/jay-aldrin-pantaleon-6019292b3/
-| GitHub Projects: Always open to collaboration on data-driven projects.
+## Focus Areas
 
+| Area | Scope |
+|---|---|
+| Analytics Engineering | Data pipelines, SQL transformations, dbt Core, reusable models, and analysis-ready datasets |
+| Data Warehousing and Modeling | Local analytical warehousing, dimensional modeling, layered architecture, and reporting-ready data |
+| Business Intelligence and Decision Support | KPI frameworks, dashboards, performance analysis, root-cause analysis, and decision intelligence |
+| Data Quality, Governance, and Controls | Validation, reconciliation, metric standardization, data lineage, regulatory data integrity, and audit readiness |
+| Business Analysis and Strategy | Requirements analysis, operational intelligence, financial performance, forecasting, and strategic planning |
+| Business Growth and Performance | Membership growth, participation, retention, revenue analysis, pricing, and go-to-market support |
+| Process Improvement and Automation | Workflow optimization, reporting automation, and reduction of repetitive manual work |
+| Stakeholder and Cross-Functional Collaboration | Business–technical alignment, requirements clarification, documentation, and stakeholder coordination |
 
-<!---
-Playful-Cloud/Playful-Cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Expanding Tech Stack
+
+Technologies being explored or considered as part of my progression toward cloud and data engineering.
+
+| Category | Tools and Platforms |
+|---|---|
+| Cloud Platforms | AWS, Google Cloud Platform (GCP) |
+| Cloud Data Platforms | Snowflake, BigQuery, Databricks |
+| Workflow Orchestration | Apache Airflow, Kestra |
+| Containerization | Docker |
+| Container Orchestration | Kubernetes |
+| Infrastructure as Code | Terraform |
+| Workflow Automation | n8n |
+| Data Streaming | Apache Kafka |
+
+---
+
+## Currently Building Expertise
+
+| Engineering Domain | Development Focus |
+|---|---|
+| Data Engineering | Reliable ingestion, transformation, integration, and delivery of analytical data |
+| DataOps and Development Workflows | Version control, reproducible environments, automated checks, and maintainable engineering workflows |
+| Pipeline Orchestration | Dependency management, scheduling, retries, monitoring, and failure recovery |
+| Data Quality Engineering | Automated testing, source-to-target reconciliation, validation, and data failure detection |
+| Cloud Infrastructure | Cloud resource provisioning, environment configuration, and infrastructure automation |
+| Production Delivery Practices | CI/CD concepts, automated pipeline validation, deployment controls, and operational reliability |
+| Streaming and Incremental Processing | Event-driven architectures, streaming fundamentals, and incremental ingestion |
+
+---
+
+## Let's Connect
+
+- **Email:** [jay.pantaleon.20@gmail.com](mailto:jay.pantaleon.20@gmail.com)
+- **LinkedIn:** [Jay Aldrin B. Pantaleon](https://www.linkedin.com/in/jay-aldrin-pantaleon-6019292b3/)
+- **GitHub Projects:** [Playful-Cloud](https://github.com/Playful-Cloud)
+
