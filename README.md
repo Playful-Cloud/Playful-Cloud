@@ -1,6 +1,6 @@
 # Hi, I'm Jay Pantaleon (@Playful-Cloud)
 
-**Analytics Engineering | Business Intelligence | Data Governance**
+**Analytics Engineering | Business Intelligence | Data Quality & GRC**
 
 ## About Me
 
